@@ -45,7 +45,7 @@ const Contact = () => {
                         idx={15}
                         />
                     </h1>
-                    <p>Feel free to contact me for freelance services, or if you have openings at your company,
+                    <p>Feel free to contact me for your frontend web development needs, if you have openings at your company,
                         or for general inquiries and I'll get back to you shortly. 
                     </p>
                     <div className="contact-form">
