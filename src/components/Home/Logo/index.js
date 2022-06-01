@@ -3,7 +3,7 @@ import LogoS from '../../../assets/images/logo-s.png'
 import { useRef, useEffect } from 'react';
 import { DrawSVGPlugin } from "gsap/DrawSVGPlugin";
 import { gsap } from "gsap";
-
+//test comment
 const Logo = () => {
     const bgRef = useRef()
     const outlineLogoRef = useRef()
