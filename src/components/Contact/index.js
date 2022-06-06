@@ -45,8 +45,8 @@ const Contact = () => {
                         idx={15}
                         />
                     </h1>
-                    <p>Feel free to contact me for your frontend web development needs, if you have openings at your company,
-                        or for general inquiries and I'll get back to you shortly. 
+                    <p>Feel free to contact me for freelance services such as web application/ website development, if you have openings at your company,
+                        or for general inquiries and I'll get back to you shortly. Check out the icons to the left! 
                     </p>
                     <div className="contact-form">
                         <form ref={refForm} onSubmit={sendEmail}>

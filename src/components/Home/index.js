@@ -43,7 +43,7 @@ const Home = () => {
                 idx={22} /> 
 
                 </h1>
-                <h2> Front End Developer / Mains Javascript/ Community Builder / Sleep Science Guru</h2>
+                <h2> Frontend Developer / Mains Javascript, React, and more/ Community Builder </h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <Logo />
